@@ -6,7 +6,7 @@
       "firstName": "John",
       "lastName": "Smith",
       "email": "john.smith@gmail.com",
-      "phone": "9876543210",
+      "phone": "9988776655",
       "accountStatus": "active",
       "company": "Acme Corp",
       "plan": "Premium"
@@ -17,7 +17,7 @@
       "firstName": "Sadiya",
       "lastName": "Memon",
       "email": "sadiya.memon@gmail.com",
-      "phone": "9123456780",
+      "phone": "9876543210",
       "accountStatus": "inactive",
       "company": "Beta Ltd",
       "plan": "Basic"
@@ -28,7 +28,7 @@
       "firstName": "Martin",
       "lastName": "Han",
       "email": "martin.han@gmail.com",
-      "phone": "9988776655",
+      "phone": "9988779999",
       "accountStatus": "active",
       "company": "Gamma Inc",
       "plan": "Premium"
